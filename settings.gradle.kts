@@ -1,0 +1,3 @@
+
+rootProject.name = "SoftPlayerLimit-Velocity"
+
